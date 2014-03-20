@@ -1,0 +1,18 @@
+INTEREST GRAPH:	
+		Interest Graph is an application that lets you know how you have interacted with fb.
+
+		You do random activities on fb. But these random activities form a pattern and these pattern form your image in fb and thats the image 			that is seen as you by your fb friends.
+
+		The image can be "Sportsy dude" , "geeky guy" , "gadget freak" , "political mind" , "book worm" and list goes on.
+
+		So what we do is let you know what kind of a image you have created.
+	
+		It gives you a graph showing the categories that you have concentrated more in fb.
+
+		Its more of an analysis on your fb avatar.
+
+		So eager to see what fb avatar you are?
+		CHECK OUT THIS LINK TO ACCESS INTEREST GRAPH: http://yourinterestgraph.orgfree.com/mychart.php
+
+		Right now its just a graph.
+		More advancements and developments coming soon.
